@@ -6,28 +6,87 @@ I focus on building **clean, modular, and efficient** systems that can be easily
 
 ---
 
-## 💼 Systems I’ve Built
-- 🐾 **Pet System** – Full inventory, equip/unequip, saving, deleting, and spawning pets
-- 🛒 **Shop System** – Developer products, gamepasses, currency deduction, confirmation prompts
-- 📊 **Leaderboards** – Global datastore-based leaderboards
-- 🎮 **Simulator Core** – Gates, rebirths, multipliers, milestone rewards
-- 🗄️ **Data Systems** – Player saving/loading with error handling
+## 💼 Systems Showcase
 
-See individual folders under [`Systems/`](Systems) for documentation and code samples.
+Each system below links to a video demo + its documentation/code under [`Systems/`](Systems).
 
 ---
 
-## 📸 Showcase
+### 🐾 Pet System
 <p align="center">
-  <img src="ShowcaseImages/petsystem.gif" width="400">
-  <img src="ShowcaseImages/shop.png" width="400">
+  <a href="https://www.youtube.com/watch?v=NcmDej2jaSU">
+    <img src="Documents/PetSystemDemo.png" width="500">
+  </a>
 </p>
+
+**Features:**
+- Hatch pets with animation  
+- Equip/unequip with unique IDs  
+- Delete pets safely  
+- DataStore saving/loading  
+
+---
+
+### 🛒 Shop System
+<p align="center">
+  <a href="YOUTUBE_LINK_HERE">
+    <img src="THUMBNAIL_LINK_HERE" width="500">
+  </a>
+</p>
+
+**Features:**
+- Handles gamepasses + dev products  
+- Currency deduction with checks  
+- Confirmation prompts  
+- Clean modular design  
+
+---
+
+### 📊 Leaderboards
+<p align="center">
+  <a href="YOUTUBE_LINK_HERE">
+    <img src="THUMBNAIL_LINK_HERE" width="500">
+  </a>
+</p>
+
+**Features:**
+- Global datastore leaderboards  
+- Auto-update cycles  
+- Error handling + fallback values  
+
+---
+
+### 🎮 Simulator Core
+<p align="center">
+  <a href="YOUTUBE_LINK_HERE">
+    <img src="THUMBNAIL_LINK_HERE" width="500">
+  </a>
+</p>
+
+**Features:**
+- Gates & progression milestones  
+- Rebirths with scaling multipliers  
+- Reward system (e.g., wins, boosts)  
+
+---
+
+### 🗄️ Data Systems
+<p align="center">
+  <a href="YOUTUBE_LINK_HERE">
+    <img src="THUMBNAIL_LINK_HERE" width="500">
+  </a>
+</p>
+
+**Features:**
+- Player data saving/loading  
+- Error handling & retries  
+- Scalable module-based structure  
 
 ---
 
 ## 📩 Commissions
-- 💰 Pricing: Depends on project scope (contact me for quotes)
-- ⏱️ Turnaround: Usually 3–5 days per system
-- 📬 Contact:
-  - Twitter/X: https://x.com/GattszuRBLX
-  - Discord: `@Gattszu`
+- 💰 Pricing: Depends on project scope (contact me for quotes)  
+- ⏱️ Turnaround: Usually 3–5 days per system  
+- 📬 Contact:  
+  - Twitter/X: [@GattszuRBLX](https://x.com/GattszuRBLX)  
+  - Discord: `@Gattszu`  
