@@ -26,7 +26,8 @@ Each system below links to documentation/code and potentially a youtube video sh
 - Demonstrates the ability to link gameplay systems (like pets) to stored player data
 
 **Links:**  
-[Try The Game](https://www.roblox.com/games/88578959223145/Speed-Race-Clicker)
+## [Try The Game](https://www.roblox.com/games/88578959223145/Speed-Race-Clicker) | ##
+
 
 --- 
 
@@ -48,7 +49,7 @@ Each system below links to documentation/code and potentially a youtube video sh
 - DataStore saving/loading  
 
 **Links:**  
-[View Code](https://github.com/Gattszu/Portfolio/tree/main/PetSystem) | [Try Live Demo](https://www.roblox.com/games/106083918695359/Pet-System-Showcase)
+## [View Code](https://github.com/Gattszu/Portfolio/tree/main/PetSystem) | [Try Live Demo](https://www.roblox.com/games/106083918695359/Pet-System-Showcase) ##
 ---
 
 ### 🛒 Shop Feature
@@ -73,7 +74,7 @@ Each system below links to documentation/code and potentially a youtube video sh
 - Clean modular, easily integratable design  
 
 **Links:**  
-[View Code](https://github.com/Gattszu/Portfolio/tree/main/ShopFeature) 
+## [View Code](https://github.com/Gattszu/Portfolio/tree/main/ShopFeature) | ##
 
 ---
 
@@ -84,7 +85,7 @@ Each system below links to documentation/code and potentially a youtube video sh
 - Scalable module-based structure  
 
 **Links:**  
-[View Code](https://github.com/Gattszu/Portfolio/tree/main/DataFolder/Project1Folder) 
+## [View Code](https://github.com/Gattszu/Portfolio/tree/main/DataFolder/Project1Folder) | ##
 
 ---
 
