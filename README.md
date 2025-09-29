@@ -30,7 +30,7 @@ Each system below links to a video demo + its documentation/code under [`Systems
 - DataStore saving/loading  
 
 **Links:**  
-[View Code](https://github.com/Gattszu/Portfolio/tree/main/ShopFeature) | [Try Live Demo](https://www.roblox.com/games/106083918695359/Pet-System-Showcase)
+[View Code](https://github.com/Gattszu/Portfolio/tree/main/PetSystem) | [Try Live Demo](https://www.roblox.com/games/106083918695359/Pet-System-Showcase)
 ---
 
 ### 🛒 Shop Feature
