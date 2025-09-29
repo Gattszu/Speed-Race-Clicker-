@@ -12,6 +12,16 @@ Each system below links to documentation/code and potentially a youtube video sh
 
 ---
 
+### ⚡️ Speed Race Clicker
+<p align="center">
+  <img src="ShowcaseImages/PetSystemDemo.png" width="500">
+  <a href="https://www.roblox.com/games/88578959223145/Speed-Race-Clicker">
+     Link to game
+  </a>
+</p>
+
+--- 
+
 ### 🐾 Pet System
 <p align="center">
   <img src="ShowcaseImages/PetSystemDemo.png" width="500">
