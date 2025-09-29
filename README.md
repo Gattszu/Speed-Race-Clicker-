@@ -6,9 +6,9 @@ I focus on building **clean, modular, and efficient** systems that can be easily
 
 ---
 
-## 💼 Systems Showcase
+## 💼 Showcase
 
-Each system below links to a video demo + its documentation/code under [`Systems/`](Systems).
+Each system below links to documentation/code and potentially a youtube video showcasing it
 
 ---
 
@@ -60,16 +60,13 @@ Each system below links to a video demo + its documentation/code under [`Systems
 ---
 
 ### 🗄️ Data Systems
-<p align="center">
-  <a href="YOUTUBE_LINK_HERE">
-    <img src="THUMBNAIL_LINK_HERE" width="500">
-  </a>
-</p>
-
 **Features:**
 - Player data saving/loading  
 - Error handling & retries  
 - Scalable module-based structure  
+
+**Links:**  
+[View Code](https://github.com/Gattszu/Portfolio/tree/main/ShopFeature) 
 
 ---
 
