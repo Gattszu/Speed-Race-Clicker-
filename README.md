@@ -15,7 +15,7 @@ Each system below links to a video demo + its documentation/code under [`Systems
 ### 🐾 Pet System
 <p align="center">
   <a href="https://www.youtube.com/watch?v=NcmDej2jaSU">
-    <img src="Documents/PetSystemDemo.png" width="500">
+    <img src="PetSystemDemo.png" width="500">
   </a>
 </p>
 
@@ -25,20 +25,34 @@ Each system below links to a video demo + its documentation/code under [`Systems
 - Delete pets safely  
 - DataStore saving/loading  
 
+**Links:**  
+[View Code](https://github.com/YourUsername/Roblox-ShopSystem) | [Try Live Demo](https://www.roblox.com/games/PLACE_ID)
 ---
 
-### 🛒 Shop System
+### 🛒 Shop Feature
 <p align="center">
-  <a href="YOUTUBE_LINK_HERE">
-    <img src="THUMBNAIL_LINK_HERE" width="500">
+  <table>
+    <tr>
+      <td><img src="WinsShop.png" width="240"></td>
+      <td><img src="SpeedShop.png" width="240"></td>
+    </tr>
+  </table>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_LINK">
+    Watch the demo
   </a>
 </p>
 
 **Features:**
-- Handles gamepasses + dev products  
-- Currency deduction with checks  
+- Handles gamepasses & dev products  
+- Currency deduction with validation  
 - Confirmation prompts  
-- Clean modular design  
+- Clean modular, easily integratable design  
+
+**Links:**  
+[View Code](https://github.com/YourUsername/Roblox-ShopSystem) | [Try Live Demo](https://www.roblox.com/games/PLACE_ID)
 
 ---
 
