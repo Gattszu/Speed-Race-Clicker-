@@ -51,7 +51,7 @@ Each system below links to a video demo + its documentation/code under [`Systems
 - Clean modular, easily integratable design  
 
 **Links:**  
-[View Code](https://github.com/YourUsername/Roblox-ShopSystem) 
+[View Code](https://github.com/Gattszu/Portfolio/tree/main/ShopFeature) 
 
 ---
 
