@@ -14,8 +14,12 @@ Each system below links to a video demo + its documentation/code under [`Systems
 
 ### 🐾 Pet System
 <p align="center">
+  <img src="ShowcaseImages/PetSystemDemo.png" width="500">
+</p>
+
+<p align="center">
   <a href="https://www.youtube.com/watch?v=NcmDej2jaSU">
-    <img src="ShowcaseImages/PetSystemDemo.png" width="500">
+    Watch the demo
   </a>
 </p>
 
