@@ -29,5 +29,5 @@ See individual folders under [`Systems/`](Systems) for documentation and code sa
 - 💰 Pricing: Depends on project scope (contact me for quotes)
 - ⏱️ Turnaround: Usually 3–5 days per system
 - 📬 Contact:
-  - Twitter/X: https://x.com/GattszuRBLX> 
+  - Twitter/X: https://x.com/GattszuRBLX
   - Discord: `@Gattszu`
