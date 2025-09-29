@@ -33,54 +33,25 @@ Each system below links to a video demo + its documentation/code under [`Systems
 <p align="center">
   <table>
     <tr>
-      <td><img src="WinsShop.png" width="240"></td>
-      <td><img src="SpeedShop.png" width="240"></td>
+      <td><img src="SpeedShop-ss.png" width="500"></td>
+      <td><img src="WinShop-ss.png" width="500"></td> 
     </tr>
   </table>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=YOUR_VIDEO_LINK">
+  <a href="https://youtu.be/aEUMjJX5TuM">
     Watch the demo
   </a>
 </p>
 
-**Features:**
-- Handles gamepasses & dev products  
-- Currency deduction with validation  
-- Confirmation prompts  
+**Demonstrates:**
+- Implementing of dev products
+- Clean Professional UI
 - Clean modular, easily integratable design  
 
 **Links:**  
-[View Code](https://github.com/YourUsername/Roblox-ShopSystem) | [Try Live Demo](https://www.roblox.com/games/PLACE_ID)
-
----
-
-### 📊 Leaderboards
-<p align="center">
-  <a href="YOUTUBE_LINK_HERE">
-    <img src="THUMBNAIL_LINK_HERE" width="500">
-  </a>
-</p>
-
-**Features:**
-- Global datastore leaderboards  
-- Auto-update cycles  
-- Error handling + fallback values  
-
----
-
-### 🎮 Simulator Core
-<p align="center">
-  <a href="YOUTUBE_LINK_HERE">
-    <img src="THUMBNAIL_LINK_HERE" width="500">
-  </a>
-</p>
-
-**Features:**
-- Gates & progression milestones  
-- Rebirths with scaling multipliers  
-- Reward system (e.g., wins, boosts)  
+[View Code](https://github.com/YourUsername/Roblox-ShopSystem) 
 
 ---
 
@@ -103,4 +74,4 @@ Each system below links to a video demo + its documentation/code under [`Systems
 - ⏱️ Turnaround: Usually 3–5 days per system  
 - 📬 Contact:  
   - Twitter/X: [@GattszuRBLX](https://x.com/GattszuRBLX)  
-  - Discord: `@Gattszu`  
+  - Discord: `@Gattszu.`  
