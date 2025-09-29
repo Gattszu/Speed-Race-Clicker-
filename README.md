@@ -14,11 +14,19 @@ Each system below links to documentation/code and potentially a youtube video sh
 
 ### ⚡️ Speed Race Clicker
 <p align="center">
-  <img src="ShowcaseImages/PetSystemDemo.png" width="500">
-  <a href="https://www.roblox.com/games/88578959223145/Speed-Race-Clicker">
-     Link to game
-  </a>
+  <img src="ShowcaseImages/SpeedClicker.png" width="1000">
 </p>
+
+**Features:**
+- Persistent player data saving and loading using Roblox DataStores
+- Management of player-specific inventory, equipped items, and unique IDs
+- Server-client separation for reliable gameplay logic
+- Modular and reusable scripts designed for easy integration into other projects
+- Safe error handling using pcall for data operations
+- Demonstrates the ability to link gameplay systems (like pets) to stored player data
+
+**Links:**  
+[Try The Game](https://www.roblox.com/games/88578959223145/Speed-Race-Clicker)
 
 --- 
 
