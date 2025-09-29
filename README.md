@@ -15,7 +15,7 @@ Each system below links to a video demo + its documentation/code under [`Systems
 ### 🐾 Pet System
 <p align="center">
   <a href="https://www.youtube.com/watch?v=NcmDej2jaSU">
-    <img src="PetSystemDemo.png" width="500">
+    <img src="ShowcaseImages/PetSystemDemo.png" width="500">
   </a>
 </p>
 
@@ -33,8 +33,8 @@ Each system below links to a video demo + its documentation/code under [`Systems
 <p align="center">
   <table>
     <tr>
-      <td><img src="SpeedShop-ss.png" width="500"></td>
-      <td><img src="WinShop-ss.png" width="500"></td> 
+      <td><img src="ShowcaseImages/SpeedShop.png" width="500"></td>
+      <td><img src="ShowcaseImages/WinShop.png" width="500"></td> 
     </tr>
   </table>
 </p>
